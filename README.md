@@ -31,9 +31,7 @@ To modify the Discord reminder message or interval, you'll need to edit the plug
 ## Planned Features
 
 - Random player teleportation command
-- Player head collection system
 - Advanced cooldown management
-- Basic grief prevention utilities
 - Performance optimization tools
 
 ## Support
